@@ -1,0 +1,41 @@
+/* Your button CSS file */
+.btn-medium {
+  padding: 15px 25px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  color: grey;
+  opacity: 0.7;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+.btn-medium:hover {
+    opacity: 1.0;
+}
+
+.btn-treehouse {
+  background-color: #6AD68B;
+  border-radius: 1px;
+  text-decoration: none;
+  color: white;
+  padding: 15px 35px;
+  border-radius: 25px;
+}
+
+.btn-treehouse:hover {
+  background-color: #5DBC7A;
+}
+
+.btn-agora {
+  padding: 15px 25px;
+  border: 1px solid black;
+  color: black;
+  opacity: 0.6;
+  border-radius: 5px;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+}
+
+.btn-agora:hover {
+  opacity: 1;
+}
